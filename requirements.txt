@@ -1,3 +1,4 @@
 django
 django-sphinx
 django-tagging
+django-extensions
